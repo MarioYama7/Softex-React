@@ -1,0 +1,12 @@
+React
+
+Introdução as single pages applications.
+
+React é um framework, o arquivo que utiliza o html com recursos de javascript é o JSX, um componente de react é entendido como função ou classe dentro do arquivo javascript que devolve o html.
+
+Uma várivael interna, a PROPS, pode ser passado dados ao componente, podendo ser manipulado e podendo modifcar o conteúdo da tela.
+
+O que é JSX?
+
+Vem da sigla JavaScript XML, é encontrado em cada componente do react, a relação com HTML é que é possível escrever comandos JavaScript para serem rodados dentro do HTML retornado.
+
