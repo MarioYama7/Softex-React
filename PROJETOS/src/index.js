@@ -4,6 +4,7 @@ import './index.css';
 import App from './App';
 import Three from './Three';
 import Name from './Four';
+import Example from './Five';
 import reportWebVitals from './reportWebVitals';
 
 const root = ReactDOM.createRoot(document.getElementById('root'));
@@ -12,6 +13,7 @@ root.render(
     <Three/>
     <App />
     <Name name = "Mário"/>
+    <Example/>
   </React.StrictMode>
 );
 

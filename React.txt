@@ -10,3 +10,18 @@ O que é JSX?
 
 Vem da sigla JavaScript XML, é encontrado em cada componente do react, a relação com HTML é que é possível escrever comandos JavaScript para serem rodados dentro do HTML retornado.
 
+________________________________________________
+*Gerenciamento de estados:
+
+É a capacidade de modificar os dados de um componente react dentro de uma página à medida que o usuário interações como o sistema.
+
+Props:
+	Elementos que podem ser passados via html, ou seja, os estático/escritos e que não mudam.
+
+States:
+	Valores dinâmicos, que podem ser modificados.
+Hooks:
+
+
+
+
