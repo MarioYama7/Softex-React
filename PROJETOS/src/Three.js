@@ -1,6 +1,6 @@
 import React from 'react';
 
-function Topo () {
+function Three () {
 
     return (
         <div>
@@ -9,4 +9,4 @@ function Topo () {
     );
 }
 
-export default Topo;
+export default Three;
